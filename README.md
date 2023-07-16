@@ -2,8 +2,6 @@
 
 A task for Klimbb
 
-## Projext Prompt
-
 ## The Challenge
 
 Create an app that lets users input location coordinates and tie unique device profiles to these locations. First-time location? Prompt a profile setup. Store these profiles locally and ensure smooth transitions with efficient state management. It's time to show off your Flutter finesse. Good luck!
